@@ -1,0 +1,7 @@
+train_dataset_file: /Users/zx/Documents/Project/data/essay_data/train.tsv
+
+dev_dataset_file: /Users/zx/Documents/Project/data/essay_data/dev.tsv
+
+bert_model_path: /Users/zx/Documents/pretrained_model/bert-base-uncased
+
+batch_size: 1
